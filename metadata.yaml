@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34830'
     url: http://www.gutenberg.org/2009/agents/34830
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30799#The-Gn-sis-of-the-Light
 gutenberg_issued: '2009-12-29'
 gutenberg_type: Text
 identifiers:
