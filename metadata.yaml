@@ -1,0 +1,28 @@
+_repo: The-Gn-sis-of-the-Light_30799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamplugh, F.
+    aliases:
+    - Lamplugh, Alfred Amos Fletcher
+    - Lamplugh, Fletcher
+    gutenberg_agent_id: '34830'
+    url: http://www.gutenberg.org/2009/agents/34830
+description: ''
+gutenberg_issued: '2009-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30799'
+  lccn: '18017620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Gnosticism'
+title: The Gnôsis of the Light
+url: http://www.gutenberg.org/ebooks/30799
